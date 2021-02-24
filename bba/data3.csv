@@ -1,0 +1,10 @@
+Kontonummer;Kontonamn;;Saldo;Tillgängligt belopp
+90237888701;Lönekonto;;14 378,74;14 378,74
+;;;;
+Bokföringsdatum;Transaktionsdatum;Transaktionstyp;Meddelande;Belopp
+2020-12-29;2020-12-28;Kortköp;HERTZ 00113 GOTEBORG,GOTEBORG,SE;-420,00
+2020-12-28;2020-12-25;Kortköp;BOKUS,STOCKHOLM,SE;-39,00
+2020-12-28;2020-12-28;Överföring;Överf ISK;-500,00
+2020-12-28;2020-12-28;Överföring;Överf ISK;-666,00
+2020-12-29;2020-12-28;Kortköp;HERTZ 00113 GOTEBORG,GOTEBO;-420,00
+2020-11-28;2020-12-28;Överföring;Överf ISK;-777,00

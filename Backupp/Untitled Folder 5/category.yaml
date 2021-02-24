@@ -1,0 +1,3097 @@
+---
+-
+    value: 90296610293
+    fixedOrVariableCost: Fasta
+    Category: Boende
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: Ränta (Länsförsäkringar 1)
+-
+    value: 90296610307
+    fixedOrVariableCost: Fasta
+    Category: Boende
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: Ränta (Länsförsäkringar 2)
+-
+    value: 90296610315
+    fixedOrVariableCost: Fasta
+    Category: Boende
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: Ränta (Länsförsäkringar 3)
+-
+    value: 90296610323
+    fixedOrVariableCost: Fasta
+    Category: Boende
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: Ränta (Länsförsäkringar 4)
+-
+    value: 90296610331
+    fixedOrVariableCost: Fasta
+    Category: Boende
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: Ränta (Länsförsäkringar 5)
+-
+    value: 832796936540654
+    fixedOrVariableCost: Fasta
+    Category: Spara
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: 832796936540829
+    fixedOrVariableCost: Fasta
+    Category: Spara
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: 1000 HSB Göteborg Ek. Förening/Medl
+    fixedOrVariableCost: Rörligt
+    Category: Boende
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: 2977373834 COLLECTOR
+    fixedOrVariableCost: Rörligt
+    Category: 
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: 9023.78.886.63
+    fixedOrVariableCost: Rörligt
+    Category: Övrigt
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: 9023.78.886.63 saxar o frisyr
+    fixedOrVariableCost: Rörligt
+    Category: Övrigt
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: 9023.78.887.01
+    fixedOrVariableCost: Rörligt
+    Category: Övrigt
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: 9023.78.887.36
+    fixedOrVariableCost: Rörligt
+    Category: Spara
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: AKAVIA
+    fixedOrVariableCost: Fasta
+    Category: Facket
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: Bahnhof
+    fixedOrVariableCost: Fasta
+    Category: Boende
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: Bredband (Bahnhof)
+-
+    value: barn mobil
+    fixedOrVariableCost: Fasta
+    Category: Mobil
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: Bauhaus
+    fixedOrVariableCost: Fasta
+    Category: Boende
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: Bensin
+    fixedOrVariableCost: Rörligt
+    Category: Transport
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: Besiktning
+    fixedOrVariableCost: Rörligt
+    Category: Transport
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: Bil
+    fixedOrVariableCost: Rörligt
+    Category: Transport
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: Bilhyra
+    fixedOrVariableCost: Rörligt
+    Category: Transport
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: BILLDALS RIDKLUBB
+    fixedOrVariableCost: Fasta
+    Category: Fritid
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: Biltema
+    fixedOrVariableCost: Rörligt
+    Category: Boende
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: BIOZONE SCIENTIFIC SCANDINAVIA AB
+    fixedOrVariableCost: Rörligt
+    Category: Boende
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: Boda hus
+    fixedOrVariableCost: Rörligt
+    Category: Övrigt
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: BODIL KARLSSON
+    fixedOrVariableCost: Rörligt
+    Category: Övrigt
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: Boxer
+    fixedOrVariableCost: Rörligt
+    Category: Boende
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: Bredband (Boxer)
+-
+    value: CENTRALA STUDIESTÖDSNÄMNDEN
+    fixedOrVariableCost: Fasta
+    Category: Lån
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: COLLECTOR BANK AB
+    fixedOrVariableCost: Rörligt
+    Category: 
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: Compeed
+    fixedOrVariableCost: Rörligt
+    Category: Sjukvård
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: Compeed igen
+    fixedOrVariableCost: Rörligt
+    Category: Sjukvård
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: Corona test
+    fixedOrVariableCost: Rörligt
+    Category: Sjukvård
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: EGMONT PUBLISHING AB
+    fixedOrVariableCost: Rörligt
+    Category: Presenter
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: ENERGIKUNDSERVICE SVERIGE
+    fixedOrVariableCost: Fasta
+    Category: Boende
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: El (Fortum Energikundservice)
+-
+    value: ENERGIKUNDSERVICE SVERIGE AB
+    fixedOrVariableCost: Fasta
+    Category: Boende
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: Fastighets AB Kalvringen Sisjön
+    fixedOrVariableCost: Rörligt
+    Category: Boende
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: Flyttsajer
+    fixedOrVariableCost: Rörligt
+    Category: Boende
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: Fläktplatta
+    fixedOrVariableCost: Rörligt
+    Category: Boende
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: FOLKSAM ÖMSESIDIG SAKFÖRSÄKRING
+    fixedOrVariableCost: Fasta
+    Category: Försäkring
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: Fondsparande Lann Mix
+    fixedOrVariableCost: Fasta
+    Category: Spara
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: FORDONSSKATT TRANSPORTSTYRELSEN
+    fixedOrVariableCost: Fasta
+    Category: Transport
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: Fordonskatt (Transportstyrelsen)
+-
+    value: Freja borste
+    fixedOrVariableCost: Rörligt
+    Category: Övrigt
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: FRÅN LÖNEKONTO
+    fixedOrVariableCost: Rörligt
+    Category: Räkningar
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: Gbg Stad/Intraservice
+    fixedOrVariableCost: Fasta
+    Category: Fritid
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: Vatten Avlopp (GBG stad
+-
+    value: Golv
+    fixedOrVariableCost: Rörligt
+    Category: Boende
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: GOTA MEDIA AB
+    fixedOrVariableCost: Rörligt
+    Category: 
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: HAGABADET
+    fixedOrVariableCost: Fasta
+    Category: Fritid
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: Halebop
+    fixedOrVariableCost: Fasta
+    Category: Mobil
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: Hallon Freja
+    fixedOrVariableCost: Fasta
+    Category: Mobil
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: Hallon Gustaf
+    fixedOrVariableCost: Fasta
+    Category: Mobil
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: Hovås Askim Familjeläkare & BVC AB
+    fixedOrVariableCost: Rörligt
+    Category: Sjukvård
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: HÖGSBY PASTORAT
+    fixedOrVariableCost: Rörligt
+    Category: Övrigt
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: IF SKADEFÖRSÄKRING AB (PU
+    fixedOrVariableCost: Fasta
+    Category: Försäkring
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: Försäkring (If)
+-
+    value: Inteleon AB
+    fixedOrVariableCost: Rörligt
+    Category: 
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: Jord och gödsel
+    fixedOrVariableCost: Rörligt
+    Category: Boende
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: Juljlappp Rolf
+    fixedOrVariableCost: Rörligt
+    Category: Presenter
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: Julklappar amazon
+    fixedOrVariableCost: Rörligt
+    Category: Presenter
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: Julklappar Bokus
+    fixedOrVariableCost: Rörligt
+    Category: Presenter
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: JULKLAPPAR ROLF
+    fixedOrVariableCost: Rörligt
+    Category: Presenter
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: K*Adlibris A
+    fixedOrVariableCost: Rörligt
+    Category: Presenter
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: K*DECATHLON
+    fixedOrVariableCost: Rörligt
+    Category: Presenter
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: K*DPJ Svensk
+    fixedOrVariableCost: Rörligt
+    Category: 
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: K*Hall Media
+    fixedOrVariableCost: Rörligt
+    Category: 
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: K*Matsmart I
+    fixedOrVariableCost: Rörligt
+    Category: Mat
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: KLARNA BANK AB
+    fixedOrVariableCost: Rörligt
+    Category: Övrigt
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: KLARNA BANK AB
+    fixedOrVariableCost: Rörligt
+    Category: Övrigt
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: Kläder barn en
+    fixedOrVariableCost: Rörligt
+    Category: Kläder
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: Kläder barnen
+    fixedOrVariableCost: Rörligt
+    Category: Kläder
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: Lajan
+    fixedOrVariableCost: Rörligt
+    Category: Boende
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: LF Göteborg och Bohuslän E-faktura
+    fixedOrVariableCost: Fasta
+    Category: Försäkring
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: Försäkring (Länsförsäkringar)
+-
+    value: LF LIV
+    fixedOrVariableCost: Fasta
+    Category: Försäkring
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: Lindås Rasta Ibk
+    fixedOrVariableCost: Fasta
+    Category: Fritid
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: Lister
+    fixedOrVariableCost: Rörligt
+    Category: Boende
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: Listwr
+    fixedOrVariableCost: Rörligt
+    Category: Boende
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: Lisyer
+    fixedOrVariableCost: Rörligt
+    Category: Boende
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: Mat Virserum
+    fixedOrVariableCost: Rörligt
+    Category: Mat
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: Mobik
+    fixedOrVariableCost: Fasta
+    Category: Mobil
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: Mobil barnen
+    fixedOrVariableCost: Fasta
+    Category: Mobil
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: Mobil gustaf
+    fixedOrVariableCost: Fasta
+    Category: Mobil
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: Parkeringstjänst Väst AB
+    fixedOrVariableCost: Rörligt
+    Category: Transport
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: Parkster / Billogram
+    fixedOrVariableCost: Rörligt
+    Category: 
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: PayEx Sverige AB/Hemfrid i Sverige
+    fixedOrVariableCost: Fasta
+    Category: Boende
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: Paynova AB (publ)
+    fixedOrVariableCost: Rörligt
+    Category: 
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: Polismyndigheten
+    fixedOrVariableCost: Rörligt
+    Category: Transport
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: Present Gunvor
+    fixedOrVariableCost: Rörligt
+    Category: Present
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: Present Gustaf
+    fixedOrVariableCost: Rörligt
+    Category: Present
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: Qliro
+    fixedOrVariableCost: Rörligt
+    Category: 
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: Regionservice Patientfakturor
+    fixedOrVariableCost: Rörligt
+    Category: Sjukård
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: Regnkläder
+    fixedOrVariableCost: Rörligt
+    Category: Kläder
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: Saco Folksam Försäkring AB
+    fixedOrVariableCost: Fasta
+    Category: Försäkring
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: SKATTEVERKET
+    fixedOrVariableCost: Rörligt
+    Category: Skatt
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: Skolkatalog
+    fixedOrVariableCost: Rörligt
+    Category: Övrigt
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: Skolkläder och skolsaker
+    fixedOrVariableCost: Rörligt
+    Category: Kläder
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: Solid Försäkrings AB
+    fixedOrVariableCost: Rörligt
+    Category: Försäkring
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: Spade
+    fixedOrVariableCost: Rörligt
+    Category: Boende
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: SULF Sveriges Univ.lärare och forsk
+    fixedOrVariableCost: Fasta
+    Category: Facket
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: SVERIGES INGENJÖRER
+    fixedOrVariableCost: Fasta
+    Category: Facket
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: tapetklister
+    fixedOrVariableCost: Rörligt
+    Category: Boende
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: Taxi
+    fixedOrVariableCost: Rörligt
+    Category: Transport
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: Tillf mobil frha
+    fixedOrVariableCost: Fasta
+    Category: Mobil
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: TRADERA SWEDEN AB
+    fixedOrVariableCost: Rörligt
+    Category: 
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: Trygg-Hansa Försäkring filial
+    fixedOrVariableCost: Fasta
+    Category: Försäkring
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: TRÄNGSELSKATT TRANSPORTSTYRELSEN
+    fixedOrVariableCost: Fasta
+    Category: Transport
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: Trängselskatt (Transportstyrelsen)
+-
+    value: VEDBRÄNDE RIDLÄGER
+    fixedOrVariableCost: Rörligt
+    Category: Fritid
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: Ventil
+    fixedOrVariableCost: Rörligt
+    Category: Boende
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: VOLVOFINANS BANK AB
+    fixedOrVariableCost: Fasta
+    Category: Transport
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: Försäkring Bil (Volvia)
+-
+    value: Wästerläkarna AB
+    fixedOrVariableCost: Rörligt
+    Category: Försäkring
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: Zooplus AG
+    fixedOrVariableCost: Rörligt
+    Category: Presenter
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: ÅterbäringLF
+    fixedOrVariableCost: Fasta
+    Category: Skatt
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: Överf ISK
+    fixedOrVariableCost: Fasta
+    Category: Spara
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: 
+    fixedOrVariableCost: 
+    Category: 
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: 4459
+    fixedOrVariableCost: Rörligt
+    Category: Övrigt
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: 7401262980
+    fixedOrVariableCost: 
+    Category: Övrigt
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: 16232 - NETTO GOTEBORG,GOTEBORG,SE
+    fixedOrVariableCost: Rörligt
+    Category: Mat
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: 7 ELEVEN
+    fixedOrVariableCost: Rörligt
+    Category: Övrigt
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: 7 ELEVEN 4317142,GÖTEBORG,SE
+    fixedOrVariableCost: Rörligt
+    Category: Övrigt
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: 7-ELEVEN 4324101,GOTEBORG,SE
+    fixedOrVariableCost: Rörligt
+    Category: Mat
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: 9023.78.887.28
+    fixedOrVariableCost: Rörligt
+    Category: Räkningar
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: 9023.78.898.13
+    fixedOrVariableCost: Rörligt
+    Category: Spara
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: 9023.94.307.61
+    fixedOrVariableCost: Rörligt
+    Category: Övrigt
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: 9025.19.457.76
+    fixedOrVariableCost: Rörligt
+    Category: Mat
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: ACTIC SVERIGE A,LERUM,SE
+    fixedOrVariableCost: Rörligt
+    Category: Övrigt
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: AKADEMIBOKHANDE,GOTEBORG,SE
+    fixedOrVariableCost: Rörligt
+    Category: Presenter
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: AKADEMIBOKHANDE,VASTRA FROLU,SE
+    fixedOrVariableCost: Rörligt
+    Category: Presenter
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: ALBATROSS GOLFK,HISINGS BACK,SE
+    fixedOrVariableCost: Rörligt
+    Category: Mat
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: AmazonMktplc*MS9LG7FO4,www.amazon.se,LU
+    fixedOrVariableCost: Rörligt
+    Category: Presenter
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: AmazonMktplc*MS9LG7FO4,www.amazon.se,LU
+    fixedOrVariableCost: Rörligt
+    Category: Presenter
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: APOTEK
+    fixedOrVariableCost: Rörligt
+    Category: Sjukvård
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: APOTEK HJARTAT ICA MAX,OSKARSHAMN,SE
+    fixedOrVariableCost: Rörligt
+    Category: Sjukvård
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: APOTEK HJARTAT ICA MAX,OSKARSHAMN,SE
+    fixedOrVariableCost: Rörligt
+    Category: Sjukvård
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: APOTEKSHOP CENTRALEN,GOETEBORG,SE
+    fixedOrVariableCost: Rörligt
+    Category: Sjukvård
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: ASKIMS CAMPING,ASKIM,SE
+    fixedOrVariableCost: Rörligt
+    Category: Mat
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: ASKIMSBADET,ASKIM,SE
+    fixedOrVariableCost: Rörligt
+    Category: Övrigt
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: Avbetalning bil
+    fixedOrVariableCost: Rörligt
+    Category: Spara
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: Avbetalning bil
+    fixedOrVariableCost: Rörligt
+    Category: Spara
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: BARN MOBIL
+    fixedOrVariableCost: Rörligt
+    Category: Mobil
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: BAUHAUS
+    fixedOrVariableCost: Rörligt
+    Category: Boende
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: BAUHAUS SISJON,VESTRA FROLUN,SE
+    fixedOrVariableCost: Rörligt
+    Category: Boende
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: BAUHAUS SISJON,VESTRA FROLUN,SE
+    fixedOrVariableCost: Rörligt
+    Category: Boende
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: BAUHAUS SISJON,VESTRA FROLUN,SE
+    fixedOrVariableCost: Rörligt
+    Category: Boende
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: BAUHAUS SISJON,VESTRA FROLUN,SE
+    fixedOrVariableCost: Rörligt
+    Category: Boende
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: BEERISTA,GOTEBORG,SE
+    fixedOrVariableCost: Rörligt
+    Category: Mat
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: Bekräfta laddning av 072965418
+    fixedOrVariableCost: Rörligt
+    Category: Mobil
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: Bensin
+    fixedOrVariableCost: Rörligt
+    Category: Transport
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: BESIKTA
+    fixedOrVariableCost: Rörligt
+    Category: Transport
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: BESIKTNING
+    fixedOrVariableCost: Rörligt
+    Category: Boende
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: Beställning The Hive
+    fixedOrVariableCost: Rörligt
+    Category: Mat
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: Bil
+    fixedOrVariableCost: Rörligt
+    Category: Transport
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: BILHYRA
+    fixedOrVariableCost: Rörligt
+    Category: Transport
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: BILLDALS RIDKLUBB,BILLDAL,SE
+    fixedOrVariableCost: Rörligt
+    Category: Mat
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: Billogram / faktura
+    fixedOrVariableCost: Rörligt
+    Category: Övrigt
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: BILREP
+    fixedOrVariableCost: Rörligt
+    Category: Bidrag
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: Biltema
+    fixedOrVariableCost: Rörligt
+    Category: Boende
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: Blocketannons
+    fixedOrVariableCost: Rörligt
+    Category: Övrigt
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: BLOMSTERLANDET,ASKIM,SE
+    fixedOrVariableCost: Rörligt
+    Category: Boende
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: BODA HUS
+    fixedOrVariableCost: Rörligt
+    Category: Övrigt
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: Bodil Karlsson
+    fixedOrVariableCost: Rörligt
+    Category: Övrigt
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: BOKUS,STOCKHOLM,SE
+    fixedOrVariableCost: Rörligt
+    Category: Övrigt
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: BOUNCE HOVAAS AB,HOVAAS,SE
+    fixedOrVariableCost: Rörligt
+    Category: Fritid
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: BRODHUSET,ASKIM,SE
+    fixedOrVariableCost: Rörligt
+    Category: Boende
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: BURGER KING VIA,BORAS,SE
+    fixedOrVariableCost: Rörligt
+    Category: Mat
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: BYGGMAX/1203,KALLERED,SE
+    fixedOrVariableCost: Rörligt
+    Category: Boende
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: BYGGMAX/1204,HISINGSBACKA,SE
+    fixedOrVariableCost: Rörligt
+    Category: Boende
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: BYGGMAX/1216,ASKIM,SE
+    fixedOrVariableCost: Rörligt
+    Category: Boende
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: Cafe Ridning
+    fixedOrVariableCost: Rörligt
+    Category: Mat
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: CIRCLE K
+    fixedOrVariableCost: Rörligt
+    Category: Transport
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: CLAS OHLSON,ASKIM,SE
+    fixedOrVariableCost: Rörligt
+    Category: Boende
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: COLORAMA
+    fixedOrVariableCost: Rörligt
+    Category: Boende
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: Compeed
+    fixedOrVariableCost: Rörligt
+    Category: Sjukvård
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: Conpeed apotek
+    fixedOrVariableCost: Rörligt
+    Category: Sjukvård
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: COOP
+    fixedOrVariableCost: Rörligt
+    Category: Mat
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: CORONA TEST
+    fixedOrVariableCost: Rörligt
+    Category: Sjukvård
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: Cykel g
+    fixedOrVariableCost: Rörligt
+    Category: Fritid
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: DAHLS BAGERI,GOTEBORG,SE
+    fixedOrVariableCost: Rörligt
+    Category: Mat
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: Disk Stråtjära
+    fixedOrVariableCost: Rörligt
+    Category: Övrigt
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: DJURENS VÄRLD,VETLANDA,SE
+    fixedOrVariableCost: Rörligt
+    Category: Fritid
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: DUYTAN,Goteborg,SE
+    fixedOrVariableCost: Rörligt
+    Category: Mat
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: Däckbyte
+    fixedOrVariableCost: Rörligt
+    Category: Övrigt
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: Däcklagning
+    fixedOrVariableCost: Rörligt
+    Category: Transport
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: EASYPARK,2662822077,SE
+    fixedOrVariableCost: Rörligt
+    Category: Transport
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: EASYPARK,2676820639,SE
+    fixedOrVariableCost: Rörligt
+    Category: Transport
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: ECO & FAIR,GOTEBORG,SE
+    fixedOrVariableCost: Rörligt
+    Category: Presenter
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: EKHAGENS PIZZERIA,JÖNKÖPING,SE
+    fixedOrVariableCost: Rörligt
+    Category: Mat
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: EKLANDA KROG
+    fixedOrVariableCost: Rörligt
+    Category: Mat
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: ELCYKEL GOTEBORG BUTIK N,GOTEBORG,SE
+    fixedOrVariableCost: Rörligt
+    Category: Övrigt
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: ELGIGANTEN AB,GÖTEBORG,SE
+    fixedOrVariableCost: Rörligt
+    Category: Presenter
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: ESPRESSO HOUSE 317,NASSJO,SE
+    fixedOrVariableCost: Rörligt
+    Category: Mat
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: 'EVA''S PARLEY,GOTEBORG,SE'
+    fixedOrVariableCost: Rörligt
+    Category: Transport
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: Fam moberg
+    fixedOrVariableCost: Rörligt
+    Category: Övrigt
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: FILMSTADEN AB,STOCKHOLM,SE
+    fixedOrVariableCost: Rörligt
+    Category: Presenter
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: FKASSA
+    fixedOrVariableCost: Rörligt
+    Category: Bidrag
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: Flixbus
+    fixedOrVariableCost: Rörligt
+    Category: Transport
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: FLUGGER AB S027,Askim,SE
+    fixedOrVariableCost: Rörligt
+    Category: Boende
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: Flyttsaker
+    fixedOrVariableCost: Rörligt
+    Category: Boende
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: FLÄKTPLATTA
+    fixedOrVariableCost: Rörligt
+    Category: Boende
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: FORDONSSKATT TRANSPORTSTYRELSEN
+    fixedOrVariableCost: Rörligt
+    Category: Transport
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: FOTBOLL FREJ
+    fixedOrVariableCost: Rörligt
+    Category: Fritid
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: FREDRIK MOBERG
+    fixedOrVariableCost: Rörligt
+    Category: Mat
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: Försenat Grattis och God Jul
+    fixedOrVariableCost: Rörligt
+    Category: Presenter
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: GOD JUL
+    fixedOrVariableCost: Rörligt
+    Category: Presenter
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: GODISHUSET,GOTEBORG,SE
+    fixedOrVariableCost: Rörligt
+    Category: Mat
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: Golv
+    fixedOrVariableCost: Rörligt
+    Category: Boende
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: GOOGLE*GOOGLE,INTERNET,GB
+    fixedOrVariableCost: Rörligt
+    Category: Övrigt
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: GOTEBORGS GODISAFFAR,ASKIM,SE
+    fixedOrVariableCost: Rörligt
+    Category: Mat
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: GP.SE,INTERNET,SE
+    fixedOrVariableCost: Rörligt
+    Category: Övrigt
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: GRENNAS BISTRO AB,GRENNA,SE
+    fixedOrVariableCost: Rörligt
+    Category: Mat
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: GULF
+    fixedOrVariableCost: Rörligt
+    Category: Transport
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: Gustafs kalaskonto
+    fixedOrVariableCost: Rörligt
+    Category: Presenter
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: GYLLENE KORVEN,Askim,SE
+    fixedOrVariableCost: Rörligt
+    Category: Mat
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: HALLON.SE,Stockholm,SE
+    fixedOrVariableCost: Rörligt
+    Category: Mobil
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: HARVEST BY MANNERSTROM,GOTEBORG,SE
+    fixedOrVariableCost: Rörligt
+    Category: Mat
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: HBO Nordic AB,Stockholm,SE
+    fixedOrVariableCost: Rörligt
+    Category: Övrigt
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: HEMGLASS GOTEBORG,VASTERAS,SE
+    fixedOrVariableCost: Rörligt
+    Category: Mat
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: HEMKÖP
+    fixedOrVariableCost: Rörligt
+    Category: Mat
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: HERTZ
+    fixedOrVariableCost: Rörligt
+    Category: Transport
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: HERTZ 00409 GOTEBORG,GOTEBORG,SE
+    fixedOrVariableCost: Rörligt
+    Category: Transport
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: HERTZ SWEDEN FRANCHISE,DUBLIN,IE
+    fixedOrVariableCost: Rörligt
+    Category: Transport
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: HEYNOW.AI,Goteborg,SE
+    fixedOrVariableCost: Rörligt
+    Category: Mat
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: HM SE0249,Vaestra Froel,SE
+    fixedOrVariableCost: Rörligt
+    Category: Presenter
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: HÖÖKS HÄSTSPORT,BORÅS,SE
+    fixedOrVariableCost: Rörligt
+    Category: Fritid
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: ICA
+    fixedOrVariableCost: Rörligt
+    Category: Mat
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: ICA KVANTUM FROLUNDA,VASTRA FROLUN,SE
+    fixedOrVariableCost: Rörligt
+    Category: Mat
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: ICA NARA KRYSSET VIRS,VIRSERUM,SE
+    fixedOrVariableCost: Rörligt
+    Category: Mat
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: ICA NARA KRYSSET VIRS,VIRSERUM,SE
+    fixedOrVariableCost: Rörligt
+    Category: Mat
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: idrottsrabatten Freja Moberg
+    fixedOrVariableCost: Rörligt
+    Category: Fritid
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: IKANO BANK AB - PREEM
+    fixedOrVariableCost: Rörligt
+    Category: Övrigt
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: IKEA-KALLERED,KALLERED,SE
+    fixedOrVariableCost: Rörligt
+    Category: Boende
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: INET
+    fixedOrVariableCost: Rörligt
+    Category: Övrigt
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: INGO ASKIM SISJON,GOTEBORG,SE
+    fixedOrVariableCost: Rörligt
+    Category: Transport
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: INTERSPORT GOTE,VASTRA FROLUN,SE
+    fixedOrVariableCost: Rörligt
+    Category: Kläder
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: JARVSOBACKEN,JERVSO,SE
+    fixedOrVariableCost: Rörligt
+    Category: Mat
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: 'JOHN SCOTT''S,MOLNDAL,SE'
+    fixedOrVariableCost: Rörligt
+    Category: Mat
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: Jord och gödsel
+    fixedOrVariableCost: Rörligt
+    Category: Boende
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: JULA AB,ASKIM,SE
+    fixedOrVariableCost: Rörligt
+    Category: Boende
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: JULKLAPPAR AMAZON
+    fixedOrVariableCost: Rörligt
+    Category: Presenter
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: JULKLAPPAR BOKUS
+    fixedOrVariableCost: Rörligt
+    Category: Presenter
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: Julklappar Rolf
+    fixedOrVariableCost: Rörligt
+    Category: Bidrag
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: Jysk Vetlanda,Vetlanda,SE
+    fixedOrVariableCost: Rörligt
+    Category: Boende
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: Järnboden
+    fixedOrVariableCost: Rörligt
+    Category: Boende
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: K-RAUTA,MOLNDAL,SE
+    fixedOrVariableCost: Rörligt
+    Category: Boende
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: K*Apotea AB
+    fixedOrVariableCost: Rörligt
+    Category: Sjukvård
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: K*Bokus AB
+    fixedOrVariableCost: Rörligt
+    Category: Övrigt
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: K*Coop.se
+    fixedOrVariableCost: Rörligt
+    Category: Mat
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: K*Elgiganten
+    fixedOrVariableCost: Rörligt
+    Category: Presenter
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: K*Ian & Burt
+    fixedOrVariableCost: Rörligt
+    Category: Övrigt
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: K*Lensway BV
+    fixedOrVariableCost: Rörligt
+    Category: Övrigt
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: K*Smartphoto
+    fixedOrVariableCost: Rörligt
+    Category: Övrigt
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: K*Tidningsku
+    fixedOrVariableCost: Rörligt
+    Category: Presenter
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: KAPPAHL 142,V. FROLUNDA,SE
+    fixedOrVariableCost: Rörligt
+    Category: Kläder
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: KD APOTEK,ASKIM,SE
+    fixedOrVariableCost: Rörligt
+    Category: Sjukvård
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: KICKS V FROELUNDA,VAESTRA FROEL,SE
+    fixedOrVariableCost: Rörligt
+    Category: Presenter
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: KJELL & CO 51,VASTRA FROLUN,SE
+    fixedOrVariableCost: Rörligt
+    Category: Övrigt
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: KRY.SE,STOCKHOLM,SE
+    fixedOrVariableCost: Rörligt
+    Category: Sjukvård
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: Kylväska
+    fixedOrVariableCost: Rörligt
+    Category: Övrigt
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: Lakan
+    fixedOrVariableCost: Rörligt
+    Category: Boende
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: LIDL
+    fixedOrVariableCost: Rörligt
+    Category: Mat
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: LIFE SISJON,ASKIM,SE
+    fixedOrVariableCost: Rörligt
+    Category: Sjukvård
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: LINDEX/39,OSKARSHAMN,SE
+    fixedOrVariableCost: Rörligt
+    Category: Kläder
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: Lister
+    fixedOrVariableCost: Rörligt
+    Category: Boende
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: LJUNGSTROMS KOK,JERVSO,SE
+    fixedOrVariableCost: Rörligt
+    Category: Mat
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: LLOYDSAPOTEK
+    fixedOrVariableCost: Rörligt
+    Category: Sjukvård
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: LLOYDSAPOTEK102,Hovaas,SE
+    fixedOrVariableCost: Rörligt
+    Category: Sjukvård
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: Lön
+    fixedOrVariableCost: Rörligt
+    Category: Lön
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: Mar Oskarshamn
+    fixedOrVariableCost: Rörligt
+    Category: Mat
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: MAT
+    fixedOrVariableCost: Rörligt
+    Category: Mat
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: Mat Virserum
+    fixedOrVariableCost: Rörligt
+    Category: Boende
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: MAT, APOTEK, KLÄDER
+    fixedOrVariableCost: Rörligt
+    Category: Mat
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: MAXI
+    fixedOrVariableCost: Rörligt
+    Category: Mat
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: MAXI ICA STORMARKNAD O,OSKARSHAMN,SE
+    fixedOrVariableCost: Rörligt
+    Category: Mat
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: MCD
+    fixedOrVariableCost: Rörligt
+    Category: Mat
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: MCD 97 - BORAS,BORAS,SE
+    fixedOrVariableCost: Rörligt
+    Category: Mat
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: MCD ULRICEHAMN,ULRICEHAMN,SE
+    fixedOrVariableCost: Rörligt
+    Category: Mat
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: MCDONALD´S
+    fixedOrVariableCost: Rörligt
+    Category: Mat
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: MCDONALD´S LAND,LANDVETTER,SE
+    fixedOrVariableCost: Rörligt
+    Category: Mat
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: MCDONALDS
+    fixedOrVariableCost: Rörligt
+    Category: Mat
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: MEDIA MARKT,VASTRA FROLUN,SE
+    fixedOrVariableCost: Rörligt
+    Category: Övrigt
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: MEKONOMENTORPAV,GÖTEBORG,SE
+    fixedOrVariableCost: Rörligt
+    Category: Transport
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: MICROSOFT*MICROSOFT 36,MSBILL.INFO,IE
+    fixedOrVariableCost: Rörligt
+    Category: Övrigt
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: Microsoft*Office 365 Pers,msbill.info,IE
+    fixedOrVariableCost: Rörligt
+    Category: Övrigt
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: Microsoft*Store,msbill.info,IE
+    fixedOrVariableCost: Rörligt
+    Category: Övrigt
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: Mobilskal Gustaf
+    fixedOrVariableCost: Rörligt
+    Category: Presenter
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: MOBL BARNEN
+    fixedOrVariableCost: Rörligt
+    Category: Mobil
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: MR GATSBY PIZZERIA,Askim,SE
+    fixedOrVariableCost: Rörligt
+    Category: Mat
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: MYCASE-PODRUZNICA ZAGR,ZAGREB,HR
+    fixedOrVariableCost: Rörligt
+    Category: Presenter
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: MYSKJE MACKEN,SODERALA,SE
+    fixedOrVariableCost: Rörligt
+    Category: Mat
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: NARA DEJ VETLANDA,VETLANDA,SE
+    fixedOrVariableCost: Rörligt
+    Category: Mat
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: NETFLIX
+    fixedOrVariableCost: Rörligt
+    Category: Övrigt
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: NETFLIX.COM,020790637,NL
+    fixedOrVariableCost: Rörligt
+    Category: Övrigt
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: NETFLIX.COM,Amsterdam,NL
+    fixedOrVariableCost: Rörligt
+    Category: Övrigt
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: NETS*collagefoto.se,Malmo,SE
+    fixedOrVariableCost: Rörligt
+    Category: Övrigt
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: Nota Harvest by Mannerström
+    fixedOrVariableCost: Rörligt
+    Category: Mat
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: NRG PIZZA 225,JONKOPING,SE
+    fixedOrVariableCost: Rörligt
+    Category: Mat
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: NYA*Toalett,46031920985,SE
+    fixedOrVariableCost: Rörligt
+    Category: Övrigt
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: OKQ8,BILLDAL,SE
+    fixedOrVariableCost: Rörligt
+    Category: Transport
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: OKQ8,VASTRA FROLUN,SE
+    fixedOrVariableCost: Rörligt
+    Category: Transport
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: OKQ8,VÄSTRA FRÖLUN,SE
+    fixedOrVariableCost: Rörligt
+    Category: Transport
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: ONGO,VASTRA FROLUN,SE
+    fixedOrVariableCost: Rörligt
+    Category: Transport
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: Pandaförsäljningen
+    fixedOrVariableCost: Rörligt
+    Category: Övrigt
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: PARKERINGSBOLAGET,GOTEBORG,SE
+    fixedOrVariableCost: Rörligt
+    Category: Transport
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: Paynova AB (publ)
+    fixedOrVariableCost: Rörligt
+    Category: Övrigt
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: pjäxor
+    fixedOrVariableCost: Rörligt
+    Category: Fritid
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: PLANTAGEN ASKIM,ASKIM,SE
+    fixedOrVariableCost: Rörligt
+    Category: Boende
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: PodMe,Stockholm,SE
+    fixedOrVariableCost: Rörligt
+    Category: Övrigt
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: PRALINEHUSET H.R AB,GOTEBORG,SE
+    fixedOrVariableCost: Rörligt
+    Category: Mat
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: PREEM,ASKIM,SE
+    fixedOrVariableCost: Rörligt
+    Category: Transport
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: PREEM,MÅLILLA,SE
+    fixedOrVariableCost: Rörligt
+    Category: Transport
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: PRESENT GUSTAF
+    fixedOrVariableCost: Rörligt
+    Category: Presenter
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: Presenter
+    fixedOrVariableCost: Rörligt
+    Category: Presenter
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: PRESSBYRAN 4128810,GOTEBORG,SE
+    fixedOrVariableCost: Rörligt
+    Category: Mat
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: PRESSBYRÅN
+    fixedOrVariableCost: Rörligt
+    Category: Övrigt
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: PRESSBYRÅN 4150145,GÖTEBORG,SE
+    fixedOrVariableCost: Rörligt
+    Category: Övrigt
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: QSTAR
+    fixedOrVariableCost: Rörligt
+    Category: Boende
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: QSTAR VETLANDA,VETLANDA,SE
+    fixedOrVariableCost: Rörligt
+    Category: Transport
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: RASTPUNKT LAXA,LAXA,SE
+    fixedOrVariableCost: Rörligt
+    Category: Mat
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: Regnkläder
+    fixedOrVariableCost: Rörligt
+    Category: Kläder
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: REPAIRHOUSE AB,Vastra Frolun,SE
+    fixedOrVariableCost: Rörligt
+    Category: Övrigt
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: RESTAURANG GREENS,VESTRA FROLUN,SE
+    fixedOrVariableCost: Rörligt
+    Category: Mat
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: Rivjärn
+    fixedOrVariableCost: Rörligt
+    Category: Övrigt
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: RUDDALENS GYM,VASTRA FROLUN,SE
+    fixedOrVariableCost: Rörligt
+    Category: Fritid
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: RUSTA SISJON 46,ASKIM,SE
+    fixedOrVariableCost: Rörligt
+    Category: Boende
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: SANGUINE,GOTEBORG,SE
+    fixedOrVariableCost: Rörligt
+    Category: Mat
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: SEGA GUBBEN,GOTEBORG,SE
+    fixedOrVariableCost: Rörligt
+    Category: Mat
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: shell
+    fixedOrVariableCost: Rörligt
+    Category: Transport
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: SK7512235974
+    fixedOrVariableCost: Rörligt
+    Category: Skatt
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: Skolkatalog
+    fixedOrVariableCost: Rörligt
+    Category: Övrigt
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: skridskor
+    fixedOrVariableCost: Rörligt
+    Category: Fritid
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: SMARTREFILL
+    fixedOrVariableCost: Rörligt
+    Category: Mobil
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: SMSPARK.SE,MOLNDAL,SE
+    fixedOrVariableCost: Rörligt
+    Category: Transport
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: Snabböverföring
+    fixedOrVariableCost: Rörligt
+    Category: Övrigt
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: SOTA BAR SWEDEN AB,KUNGALV,SE
+    fixedOrVariableCost: Rörligt
+    Category: Mat
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: Sovsäck
+    fixedOrVariableCost: Rörligt
+    Category: Fritid
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: Spade
+    fixedOrVariableCost: Rörligt
+    Category: Boende
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: SPORTSHOPEN SIS,ASKIM,SE
+    fixedOrVariableCost: Rörligt
+    Category: Kläder
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: Spotify P123B44EC3,Stockholm,SE
+    fixedOrVariableCost: Rörligt
+    Category: Övrigt
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: ST1 VETLANDA,EKENÄSSJÖN,SE
+    fixedOrVariableCost: Rörligt
+    Category: Transport
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: STADIUM SISJON,ASKIM,SE
+    fixedOrVariableCost: Rörligt
+    Category: Övrigt
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: STORA COOP
+    fixedOrVariableCost: Rörligt
+    Category: Mat
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: STORA COOP SISJÖN,ASKIM,SE
+    fixedOrVariableCost: Rörligt
+    Category: Mat
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: Storytel
+    fixedOrVariableCost: Rörligt
+    Category: Övrigt
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: Storytel Sweden AB,Stockholm,SE
+    fixedOrVariableCost: Rörligt
+    Category: Övrigt
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: Swish
+    fixedOrVariableCost: Rörligt
+    Category: Övrigt
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: Swish till SF Anytime AB
+    fixedOrVariableCost: Rörligt
+    Category: Övrigt
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: SYSTEMBOLAGET ASKIM,ASKIM,SE
+    fixedOrVariableCost: Rörligt
+    Category: Mat
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: TANKA
+    fixedOrVariableCost: Rörligt
+    Category: Transport
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: TANKA SISJON,GOTEBORG,SE
+    fixedOrVariableCost: Rörligt
+    Category: Transport
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: TAPETKLISTTER
+    fixedOrVariableCost: Rörligt
+    Category: Boende
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: Taxi
+    fixedOrVariableCost: Rörligt
+    Category: Transport
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: TAXI GOTEBORG,GOTEBORG,SE
+    fixedOrVariableCost: Rörligt
+    Category: Transport
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: TEAM SPORTIA SODERHAMN,SODERHAMN,SE
+    fixedOrVariableCost: Rörligt
+    Category: Kläder
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: Tillf mobil freja
+    fixedOrVariableCost: Rörligt
+    Category: Övrigt
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: Toalett,Borlange,SE
+    fixedOrVariableCost: Rörligt
+    Category: Övrigt
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: TRIUMF GLASS OCH GODIS,VESTRA FROLUN,SE
+    fixedOrVariableCost: Rörligt
+    Category: Mat
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: "UDEMY: ONLINE COURSES,DUBLIN 2,IE"
+    fixedOrVariableCost: Rörligt
+    Category: Övrigt
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: Vasttrafik AB,Goteborg,SE
+    fixedOrVariableCost: Rörligt
+    Category: Transport
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: VENTIL
+    fixedOrVariableCost: Rörligt
+    Category: Boende
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: VÄSTTRAFIK
+    fixedOrVariableCost: Rörligt
+    Category: Transport
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: VÄSTTRAFIK AB,GOTEBORG,SE
+    fixedOrVariableCost: Rörligt
+    Category: Transport
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: WILLYS
+    fixedOrVariableCost: Rörligt
+    Category: Mat
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: WILLYS SISJÖN,ASKIM,SE
+    fixedOrVariableCost: Rörligt
+    Category: Mat
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: WWW.BILTEMA.COM,HELSINGBORG,SE
+    fixedOrVariableCost: Rörligt
+    Category: Transport
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: WWW.TELENOR.SE,HELSINGBORG,SE
+    fixedOrVariableCost: Rörligt
+    Category: Mobil
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: XXL SPORT &VILD,ASKIM,SE
+    fixedOrVariableCost: Rörligt
+    Category: Övrigt
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: ÅTERBETALNIN
+    fixedOrVariableCost: Rörligt
+    Category: Skatt
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: ÅterbäringLF
+    fixedOrVariableCost: Rörligt
+    Category: Bidrag
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: Överf ISK
+    fixedOrVariableCost: Rörligt
+    Category: Spara
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: TILL G & F
+    fixedOrVariableCost: Rörligt
+    Category: Bidrag
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: Ridklubb
+    fixedOrVariableCost: Rörligt
+    Category: Mat
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: Sf anytime
+    fixedOrVariableCost: Rörligt
+    Category: Övrigt
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: iZ *Svanstrom Lin,Styrso,SE
+    fixedOrVariableCost: Rörligt
+    Category: Mat
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: 9024.12.656.91
+    fixedOrVariableCost: Rörligt
+    Category: Övrigt
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: Nat
+    fixedOrVariableCost: Rörligt
+    Category: Mat
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: Freja hämtar bilnyckel
+    fixedOrVariableCost: Rörligt
+    Category: Övrigt
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: Star Stable NS9MQID1,Stockholm,SE
+    fixedOrVariableCost: Rörligt
+    Category: Presenter
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: Kläder barnen
+    fixedOrVariableCost: Rörligt
+    Category: Kläder
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: 90296610293
+    fixedOrVariableCost: Rörligt
+    Category: Boende
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: Löneinsättning
+    fixedOrVariableCost: Fasta
+    Category: Lön
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: Swish till NYA JÄRNBODEN I VIRSERU
+    fixedOrVariableCost: Rörligt
+    Category: Boende
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: Swish till SF Anytime AB
+    fixedOrVariableCost: Rörligt
+    Category: Övrigt
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: Swish till VÄSTTRAFIK AB
+    fixedOrVariableCost: Rörligt
+    Category: Transport
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: Swish återbet från SF Anytime AB
+    fixedOrVariableCost: Rörligt
+    Category: Övrigt
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: Swish från AXEL BJÖRKLUND
+    fixedOrVariableCost: Rörligt
+    Category: Övrigt
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: Swish till BSGA GÖTEBORG AB
+    fixedOrVariableCost: Rörligt
+    Category: Övrigt
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: Swish från Bodil Karlsson
+    fixedOrVariableCost: Rörligt
+    Category: Övrigt
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: Swish till BILLDALS RIDKLUBB
+    fixedOrVariableCost: Rörligt
+    Category: Övrigt
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: Swish till SOKOLOVA CONSULT AB
+    fixedOrVariableCost: Rörligt
+    Category: Övrigt
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: Swish från Karlsson, Bodil
+    fixedOrVariableCost: Rörligt
+    Category: Övrigt
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 
+-
+    value: Årsavg Bankkort Privat
+    fixedOrVariableCost: Rörligt
+    Category: Övrigt
+    Category_1: 
+    Category_2: 
+    Category_3: 
+    Comment: 

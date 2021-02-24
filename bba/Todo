@@ -1,0 +1,84 @@
+
+
+Select * From Customers WHERE City='Madrid' ORDER BY DIFFERENCE(City, 'Madrid') DESC;
+
+        
+
+
+
+# Accout	Name
+9023.78.887.01	Fredrik lön
+9023.78.887.28	Hus och räkning
+9025.16.069.12	Ej bestämt 
+9025.19.457.76	Hushåll
+9023.78.887.36	Gemensamt spar
+9023.94.307.61	Månadspeng
+9024.34.643.49	Resa
+9024.34.643.57	Avbetalning bil
+9024.72.062.12	Månadspeng
+9024.72.062.39	Månadspeng
+9023.78.898.13	Aktielikvid
+9023.99.084.16	Används ej
+9025.16.067.18	Avänds ej
+9023.89.240.27	Freja spar
+9023.89.240.35	Gustaf spar
+
+
+Allt
+Efaktura
+Faktura
+Autogiro
+Konto
+Extern överföring
+Överföringar
+Allt utom överföringar
+
+---
+-
+    Accout: 9023.78.887.01
+    Name: Fredrik lön
+-
+    Accout: 9023.78.887.28
+    Name: Hus och räkning
+-
+    Accout: 9025.16.069.12
+    Name: "Ej bestämt\t"
+-
+    Accout: 9025.19.457.76
+    Name: Hushåll
+-
+    Accout: 9023.78.887.36
+    Name: Gemensamt spar
+-
+    Accout: 9023.94.307.61
+    Name: Månadspeng
+-
+    Accout: 9024.34.643.49
+    Name: Resa
+-
+    Accout: 9024.34.643.57
+    Name: Avbetalning bil
+-
+    Accout: 9024.72.062.12
+    Name: Månadspeng
+-
+    Accout: 9024.72.062.39
+    Name: Månadspeng
+-
+    Accout: 9023.78.898.13
+    Name: Aktielikvid
+-
+    Accout: 9023.99.084.16
+    Name: Används ej
+-
+    Accout: 9025.16.067.18
+    Name: Avänds ej
+-
+    Accout: 9023.89.240.27
+    Name: Freja spar
+-
+    Accout: 9023.89.240.35
+    Name: Gustaf spar
+
+
+---
